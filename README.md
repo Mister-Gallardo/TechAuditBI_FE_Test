@@ -69,7 +69,7 @@ const transformData: TransformDataFunction = (data) => {
 
     return result 
 }
-
+```
 ## task_4
 Result:
 ```typescript
